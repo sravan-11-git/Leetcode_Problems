@@ -8,5 +8,6 @@ class Solution:
             if 2**int(result) == int(n):
                 return True
         return False
+
                 
         
